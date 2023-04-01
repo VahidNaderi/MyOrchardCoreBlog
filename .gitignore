@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CMS.Web/App_Data
+/CMS.Web/bin
+/CMS.Web/Localization
+/CMS.Web/obj
+/VahidNaderiTheme.OrchardCore/obj
+/VahidNaderiTheme.OrchardCore/bin/Debug/net6.0
+/CMS.Web/Properties/PublishProfiles
